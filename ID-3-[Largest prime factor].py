@@ -35,7 +35,7 @@ while factor <= num:
         # print(num)
     factor += 1
 # 不能用 for , for 之后循环次数已固定
-# 之后更改 num 值无效a
+# 之后更改 num 值无效
 # for i in range(2, num + 1):
 #     if all([isPrime(i), num % i == 0]):
 #         num /= i
